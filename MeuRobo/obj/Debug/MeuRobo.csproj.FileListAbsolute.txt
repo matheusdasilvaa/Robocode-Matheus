@@ -1,0 +1,14 @@
+C:\Users\2665423\source\repos\RoboTheus\MeuRobo\bin\Debug\MeuRobo.dll
+C:\Users\2665423\source\repos\RoboTheus\MeuRobo\bin\Debug\MeuRobo.pdb
+C:\Users\2665423\source\repos\RoboTheus\MeuRobo\bin\Debug\robocode.dll
+C:\Users\2665423\source\repos\RoboTheus\MeuRobo\bin\Debug\robocode.xml
+C:\Users\2665423\source\repos\RoboTheus\MeuRobo\obj\Debug\MeuRobo.csproj.CoreCompileInputs.cache
+C:\Users\2665423\source\repos\RoboTheus\MeuRobo\obj\Debug\MeuRobo.csproj.CopyComplete
+C:\Users\2665423\source\repos\RoboTheus\MeuRobo\obj\Debug\MeuRobo.dll
+C:\Users\2665423\source\repos\RoboTheus\MeuRobo\obj\Debug\MeuRobo.pdb
+C:\Users\2665423\Desktop\RoboTheus\MeuRobo\bin\Debug\MeuRobo.dll
+C:\Users\2665423\Desktop\RoboTheus\MeuRobo\bin\Debug\MeuRobo.pdb
+C:\Users\2665423\Desktop\RoboTheus\MeuRobo\obj\Debug\MeuRobo.csproj.CoreCompileInputs.cache
+C:\Users\2665423\Desktop\RoboTheus\MeuRobo\obj\Debug\MeuRobo.csproj.CopyComplete
+C:\Users\2665423\Desktop\RoboTheus\MeuRobo\obj\Debug\MeuRobo.dll
+C:\Users\2665423\Desktop\RoboTheus\MeuRobo\obj\Debug\MeuRobo.pdb
